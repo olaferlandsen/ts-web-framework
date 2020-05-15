@@ -159,9 +159,10 @@
     "@types/rx-core" "*"
     "@types/rx-core-binding" "*"
 
-"@types/rx@^4.1.1":
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/@types/rx/-/rx-4.1.1.tgz#598fc94a56baed975f194574e0f572fd8e627a48"
+"@types/rx@^4.1.2":
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/@types/rx/-/rx-4.1.2.tgz#a4061b3d72b03cf11a38d69e2022a17334c54dc0"
+  integrity sha512-1r8ZaT26Nigq7o4UBGl+aXB2UMFUIdLPP/8bLIP0x3d0pZL46ybKKjhWKaJQWIkLl5QCLD0nK3qTOO1QkwdFaA==
   dependencies:
     "@types/rx-core" "*"
     "@types/rx-core-binding" "*"
